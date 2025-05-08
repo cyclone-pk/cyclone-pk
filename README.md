@@ -15,17 +15,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyclone-pk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Zakria's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclone-pk&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-
----
-
 ### 🧰 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
