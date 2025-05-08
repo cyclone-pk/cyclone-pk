@@ -18,12 +18,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyclone-pk&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" alt="Zakria's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyclone-pk&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyclone-pk&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Zakria's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclone-pk&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
@@ -41,8 +40,8 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakriakhan53)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~zakriakhan)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://zakriakhan.com)
+[![Facebook](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zakria.khan.53)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/toptutorial270)
 
 ---
