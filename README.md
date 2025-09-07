@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zakria Khan 👋</h1>
 
 <p align="center">
-  🚀 Full-Stack Flutter Developer | 📱 Mobile App Specialist | ☁️ Firebase & Backend Expert  
+  🚀 Full-Stack Flutter Developer | 📱 Mobile App Specialist | ☁️ Android and iOS Apps  
 </p>
 
 ---
