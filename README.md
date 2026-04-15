@@ -11,7 +11,7 @@
 - 🔭 Software engineer with 5+ years building production systems end to end, from mobile apps to backends and IoT.
 - 🌐 Work across Java, Node.js, Dart, Python, MongoDB, REST APIs, microservices, Docker, and AWS.
 - 🛠️ Shipped 150+ applications since 2019 across iOS, Android, and web.
-- 🤝 Enjoy code reviews, mentoring, and collaborating directly with US, UK, and EU clients.
+- 🤝 Enjoy code reviews, mentoring, and collaborating directly with clients.
 - 🚀 Care about clean code, tests, and systems that hold up in production.
 
 ---
